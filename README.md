@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Niroshima 👋</h1>
 
 <p align="center">
-  <b>💻 Senior Java Developer | Spring Boot Enthusiast</b><br>
+  <b>💻 Java Developer | Spring Boot Enthusiast</b><br>
   <b>🌱 Passionate about Cloud, DevOps & AI</b>
 </p>
 
