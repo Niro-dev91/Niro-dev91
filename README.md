@@ -51,12 +51,12 @@
 ### 🌱 Currently Learning
 - 🔬 AI & ML
 - ☁️ Advanced DevOps with GCP & AWS
-
----
 <!--
+---
+
 ### 📫 Connect with Me
 - 🌐 [Portfolio Website](https://your-portfolio.vercel.app)
 - 📧 Email: niroshima@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) -->
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile) 
 
---- 
+--- -->
