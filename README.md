@@ -31,8 +31,7 @@
 #### ⚙️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge)
+
 
 #### 📊 Tools & Practices
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
@@ -50,15 +49,14 @@
 ---
 
 ### 🌱 Currently Learning
-- 🔬 AI & ML for finance
+- 🔬 AI & ML
 - ☁️ Advanced DevOps with GCP & AWS
-- 🧪 TDD with Spring Boot
 
 ---
-
+<!--
 ### 📫 Connect with Me
 - 🌐 [Portfolio Website](https://your-portfolio.vercel.app)
 - 📧 Email: niroshima@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile) -->
 
----
+--- 
