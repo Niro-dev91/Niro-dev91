@@ -23,6 +23,11 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST-API-FF6F61?style=for-the-badge)
 
+#### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 #### 🗄️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
