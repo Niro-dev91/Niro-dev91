@@ -1,9 +1,6 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+I'm+Niroshima" alt="Typing SVG" /></a>
-  </a>
-</h1>
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+I'm+Niroshima" alt="Typing SVG" /></a>
+</p>
 <p align="center">
   <b>💻 Java Developer | Spring Boot Enthusiast</b><br>
   <b>🌱 Passionate about Cloud, DevOps & AI</b>
