@@ -1,9 +1,6 @@
 <h1 align="center">
-  Hey there, I'm Niroshima <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+I'm+Niroshima" alt="Typing SVG" /></a><img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>
 </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Niroshima+👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
 
 
 
