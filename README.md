@@ -1,4 +1,6 @@
-<h1 align="center">Hey there, I'm Niroshima 👋</h1>
+<h1 align="center">
+  Hey there, I'm Niroshima <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/>
+</h1>
 
 <p align="center">
   <b>💻 Java Developer | Spring Boot Enthusiast</b><br>
