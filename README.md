@@ -2,14 +2,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there%2C+I'm+Niroshima" alt="Typing SVG" /><img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px"/></a>
 </h1>
 <p align="center">
-  <b>💻 Java Developer | Spring Boot Enthusiast</b><br>
+  <b>💻 Full Stack Developer | Java Developer | Spring Boot Enthusiast</b><br>
   <b>🌱 Passionate about Cloud, DevOps & AI</b>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 👨‍💻 I'm a **Java Developer** specialized in building scalable enterprise apps
+- 👨‍💻 I'm a **Full Stack Developer** specialized in building scalable enterprise apps
 - 🏦 Experienced in financial systems: margin trading, portfolio & treasury
 - 🌱 Currently diving deep into **AI**, **DevOps**, and **Cloud Architecture**
 - 🤝 Open to collaborating on impactful projects and innovative tech ideas
@@ -31,6 +31,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React JS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 #### 🗄️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
