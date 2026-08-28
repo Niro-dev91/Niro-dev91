@@ -74,10 +74,8 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niro-dev91&show_icons=true&theme=dark" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niro-dev91&layout=compact&theme=dark" height="180" />
-</p>
 
 ---
 
