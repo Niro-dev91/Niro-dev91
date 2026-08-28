@@ -54,6 +54,11 @@
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-7B1FA2?style=for-the-badge&logo=mockito&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+#### 🛡️ Validation
+
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 #### 📊 Tools & Practices
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
