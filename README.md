@@ -74,8 +74,16 @@
 
 ### 📈 GitHub Stats
 
-![Niroshima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niro-dev91&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niro-dev91&layout=compact&theme=dark)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Niro-dev91&show_icons=true&theme=dark"
+    alt="Niroshima's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niro-dev91&layout=compact&theme=dark"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
