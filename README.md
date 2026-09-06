@@ -76,28 +76,8 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niro-dev91&theme=github_dark"
-    height="180"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niro-dev91&theme=github_dark"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niro-dev91&theme=github_dark"
-    width="90%"
-  />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Niro-dev91&theme=github-dark-blue&hide_border=true"
+    src="https://yourinsights.vercel.app/api/insight?username=Niro-dev91"
+    alt="Niroshima GitHub Insights"
   />
 </p>
 
