@@ -43,6 +43,7 @@
 #### 🔗 ORM & Data Access
 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 #### 🔗 APIs & Integration
@@ -75,7 +76,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-20C997?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 #### 🔍 Search & Visualization
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
@@ -105,7 +108,6 @@
 <p align="center">
   <b>If you like my work, consider giving a ⭐ to the repositories you find useful.</b>
 </p>
----
 
 <!--
 ---
