@@ -81,6 +81,11 @@
 
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
+#### 🏗️ Architecture & Patterns
+
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-0A66C2?style=for-the-badge)
+![Event Driven Architecture](https://img.shields.io/badge/Event--Driven-Architecture-FF6F00?style=for-the-badge)
+
 #### 📊 Tools & Practices
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
@@ -111,6 +116,7 @@
 ### 🌱 Currently Learning
 - 🔬 AI & ML
 - ☁️ Advanced DevOps with GCP & AWS
+- Modern Software Engineering
   
 ---
 
