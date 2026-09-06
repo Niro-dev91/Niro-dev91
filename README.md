@@ -11,7 +11,7 @@
 ### 🚀 About Me
 - 👨‍💻 I'm a **Full Stack Developer** specialized in building scalable enterprise apps
 - 🏦 Experienced in financial systems: margin trading, portfolio & treasury
-- 🌱 Currently diving deep into **AI**, **DevOps**, and **Cloud Architecture**
+- 🌱 Currently diving deep into **AI**, **DevOps**, and **Cloud Architecture** and **modern backend and frontend technologies**
 - 🤝 Open to collaborating on impactful projects and innovative tech ideas
 
 ---
