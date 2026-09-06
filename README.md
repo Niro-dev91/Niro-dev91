@@ -86,6 +86,16 @@
 ### 🌱 Currently Learning
 - 🔬 AI & ML
 - ☁️ Advanced DevOps with GCP & AWS
+  
+---
+
+<h3 align="center">Thanks for visiting my profile! 👋</h3>
+
+<p align="center">
+  <b>If you like my work, consider giving a ⭐ to the repositories you find useful.</b>
+</p>
+---
+
 <!--
 ---
 
