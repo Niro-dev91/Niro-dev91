@@ -72,16 +72,65 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
 
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Niro-dev91&show_icons=true&theme=dark"
-    alt="Niroshima's GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niro-dev91&theme=github_dark"
+    width="98%"
+    alt="GitHub Contribution Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niro-dev91&theme=github_dark"
+    width="49%"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niro-dev91&layout=compact&theme=dark"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niro-dev91&theme=github_dark"
+    width="49%"
+    alt="Most Used Languages"
   />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niro-dev91&theme=github_dark"
+    width="49%"
+    alt="Most Used Languages by Commits"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niro-dev91&theme=github_dark&utcOffset=5.5"
+    width="49%"
+    alt="Productive Time"
+  />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Niro-dev91&theme=github-dark-blue&hide_border=true"
+    width="75%"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Niro-dev91&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true&custom_title=Niroshima%27s%20Contribution%20Activity"
+    width="98%"
+    alt="Contribution Activity"
+  />
+</p>
 
 ---
 
