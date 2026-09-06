@@ -72,63 +72,32 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niro-dev91&theme=github_dark"
-    width="98%"
-    alt="GitHub Contribution Details"
-  />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niro-dev91&theme=github_dark"
-    width="49%"
-    alt="GitHub Stats"
+    height="180"
   />
+
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niro-dev91&theme=github_dark"
-    width="49%"
-    alt="Most Used Languages"
+    height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niro-dev91&theme=github_dark"
-    width="49%"
-    alt="Most Used Languages by Commits"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niro-dev91&theme=github_dark&utcOffset=5.5"
-    width="49%"
-    alt="Productive Time"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niro-dev91&theme=github_dark"
+    width="90%"
   />
 </p>
 
----
-
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Niro-dev91&theme=github-dark-blue&hide_border=true"
-    width="75%"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Niro-dev91&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true&custom_title=Niroshima%27s%20Contribution%20Activity"
-    width="98%"
-    alt="Contribution Activity"
+    src="https://streak-stats.demolab.com/?user=Niro-dev91&theme=github-dark-blue&hide_border=true"
   />
 </p>
 
