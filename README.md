@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <b>💻 Full Stack Developer | Backend Developer | Java Developer | Spring Boot Enthusiast</b><br>
-  <b>🌱 Passionate about Cloud, DevOps, AI and modern backend and frontend technologies</b>
+  <b>🌱 Passionate about Cloud, DevOps, AI & modern backend and frontend technologies</b>
 </p>
 
 ---
