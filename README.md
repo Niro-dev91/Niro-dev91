@@ -100,6 +100,7 @@
 #### 💳 Payments
 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
